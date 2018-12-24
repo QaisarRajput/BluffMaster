@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EBA99720-463C-4CB0-952D-77BEEA9C214D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bluff</RootNamespace>
+    <AssemblyName>Bluff</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="PlayerDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerDetail.Designer.cs">
+      <DependentUpon>PlayerDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\Bluff.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\Bluff.PlayerDetail.resources" />
+    <EmbeddedResource Include="obj\Debug\Bluff.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\Bluff.Form1.resources" />
+    <EmbeddedResource Include="obj\Release\Bluff.PlayerDetail.resources" />
+    <EmbeddedResource Include="obj\Release\Bluff.Properties.Resources.resources" />
+    <EmbeddedResource Include="PlayerDetail.resx">
+      <DependentUpon>PlayerDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="obj\Debug\Bluff.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\Bluff.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\Bluff.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\Bluff.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\BionicKidSimple.ttf" />
+    <None Include="Resources\Card chart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\CrashLandingBB.ttf" />
+    <EmbeddedResource Include="Resources\CrashLandingBB_ital.ttf" />
+    <None Include="Resources\Main page.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\OLDENGL.TTF" />
+    <None Include="Resources\Player page.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start page.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\one.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\three.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\two.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Debug\Bluff.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Bluff.exe" />
+    <Content Include="obj\Debug\Bluff.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\Bluff.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\Bluff.exe" />
+    <Content Include="obj\Release\Bluff.pdb" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+    <None Include="Resources\sound.wav" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

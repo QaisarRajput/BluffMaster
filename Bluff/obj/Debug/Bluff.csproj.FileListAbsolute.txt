@@ -1,0 +1,19 @@
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\bin\Debug\Bluff.exe.config
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\bin\Debug\Bluff.exe
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\bin\Debug\Bluff.pdb
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.Form1.resources
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.Properties.Resources.resources
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.csproj.GenerateResource.Cache
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.exe
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.pdb
+c:\users\mad\documents\visual studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.PlayerDetail.resources
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Debug\Bluff.csprojResolveAssemblyReference.cache
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\bin\Debug\Bluff.exe.config
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\bin\Debug\Bluff.exe
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\bin\Debug\Bluff.pdb
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Debug\Bluff.Form1.resources
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Debug\Bluff.PlayerDetail.resources
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Debug\Bluff.Properties.Resources.resources
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Debug\Bluff.csproj.GenerateResource.Cache
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Debug\Bluff.exe
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Debug\Bluff.pdb

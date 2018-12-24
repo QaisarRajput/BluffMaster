@@ -1,0 +1,18 @@
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\bin\Release\Bluff.exe.config
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\bin\Release\Bluff.exe
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\bin\Release\Bluff.pdb
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Release\Bluff.Form1.resources
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Release\Bluff.PlayerDetail.resources
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Release\Bluff.Properties.Resources.resources
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Release\Bluff.csproj.GenerateResource.Cache
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Release\Bluff.exe
+C:\Users\MAD\Documents\Visual Studio 2012\Projects\Bluff\Bluff\obj\Release\Bluff.pdb
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\bin\Release\Bluff.exe.config
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Release\Bluff.exe
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Release\Bluff.pdb
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\bin\Release\Bluff.exe
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\bin\Release\Bluff.pdb
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Release\Bluff.Form1.resources
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Release\Bluff.PlayerDetail.resources
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Release\Bluff.Properties.Resources.resources
+C:\Users\Qaisar Rajput\Documents\Visual Studio 2013\Projects\Bluff Game A.i Project Semester 5\Bluff Game\Bluff Game\Game Code\Bluff\Bluff\obj\Release\Bluff.csproj.GenerateResource.Cache
